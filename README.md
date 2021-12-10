@@ -12,7 +12,7 @@ Its very simple:
 
 ![settings options](readmepics/2-pages.png)
 
-+Save the page!
++ Save the page!
 
 ![save](readmepics/3-save.png)
 
